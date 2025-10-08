@@ -1,1 +1,42 @@
 <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset= "UTF-8">
+    <title> My Resume </title>
+  </head>
+  <body> 
+    <h1> Georgette O.S </h1>
+    <hr/>
+    <h2> Summary </h2>
+      <h3> Have over eight years of experience working in school education, and three years working in customer service. My ability to adapt to different work environments <br/> 
+      helps me expand on my capabilities and create new skills. 
+      </h3>
+    <hr/>
+    <h2> Education </h2>
+      <ul>
+        <li> Associate in Arts 2023 </li>
+      </ul>
+    <hr/>
+    <h2> Work Experience </h2>
+      <ol>
+        <li> Teacher Assistant </li>
+          <ul>
+            <li> Assist the lead teacher with daily tasks in the classroom. </li>
+            <li> Support the lead teacher in building the curriculum. </li>
+          </ul>
+        <li> Supervision Assistant </li>
+          <ul>
+            <li> Perform CPR/First Aid if necessary. </li>
+            <li> Keep count and knowledge of students' whereabouts when outside of their classroom. </li>
+            <li> Respond accordingly and promptly to incidents and suspicious activity. </li>
+          </ul>
+    <hr/>
+    <h2> Skills </h2>
+      <ul>
+        <li> Bilingual (English, Spanish) </li>
+        <li> Customer Service </li>
+        <li> Microsoft Word (proficient) </li>
+  </body>
+  <hr/>
+  <h2> Others </h2>
+    <a href="
